@@ -1,0 +1,9 @@
+<svg width="314" height="149" viewBox="0 0 314 149" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M25.3043 5.86479C25.8548 2.76132 28.5525 0.5 31.7044 0.5H283.073C286.241 0.5 288.948 2.78375 289.48 5.90651L289.973 5.8224L289.48 5.90651L312.52 140.907C313.197 144.876 310.139 148.5 306.112 148.5H7.75906C3.71505 148.5 0.652699 144.847 1.35897 140.865L25.3043 5.86479Z" stroke="url(#paint0_linear_787-info-bg-mob-svg)"/>
+  <defs>
+    <linearGradient id="paint0_linear_787-info-bg-mob-svg" x1="-0.591797" y1="74.5" x2="322.349" y2="74.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24FF3A"/>
+      <stop offset="1" stop-color="#6FDCFF"/>
+    </linearGradient>
+  </defs>
+</svg>

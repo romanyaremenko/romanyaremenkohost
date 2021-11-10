@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="xMinYMin meet" width="631" height="1242" viewBox="0 0 631 1242" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.15" filter="url(#filter0_f_274-roadmap__right)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M580.998 301.971C676.319 292.733 759.511 349.72 829.33 415.062C893.462 475.083 939.681 551.252 941.132 639.015C942.669 732.002 910.386 825.639 837.068 883.115C762.136 941.857 661.756 954.145 569.577 930.292C477.699 906.517 404.314 843.315 359.88 759.635C310.888 667.371 276.619 558.34 322.093 464.219C368.654 367.849 474.316 312.309 580.998 301.971Z"
+          fill="url(#paint0_linear_274-roadmap__right)" />
+  </g>
+  <defs>
+    <filter id="filter0_f_274-roadmap__right" x="0.789062" y="0.983398" width="1240.4" height="1240.77"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_274-roadmap__right" />
+    </filter>
+    <linearGradient id="paint0_linear_274-roadmap__right" x1="930.021" y1="562.081" x2="384.763" y2="425.132"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#FF248D" />
+    </linearGradient>
+  </defs>
+</svg>

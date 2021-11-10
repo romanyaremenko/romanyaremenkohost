@@ -1,0 +1,78 @@
+<svg preserveAspectRatio="xMinYMin meet" width="66" height="52" viewBox="0 0 66 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#filter0_d_274-app-mob-icon-switch-mode)">
+    <path
+      d="M54.6711 13.842C54.4787 12.562 53.3791 11.6152 52.0847 11.6152L38.0376 11.6152C36.4383 11.6152 35.2136 13.0378 35.4512 14.6193L39.3814 40.7731C39.5738 42.0531 40.6734 42.9998 41.9678 42.9998L56.0149 42.9998C57.6142 42.9998 58.839 41.5773 58.6013 39.9958L54.6711 13.842Z"
+      fill="url(#paint0_linear_274-app-mob-icon-switch-mode)" />
+    <path
+      d="M54.6711 13.842C54.4787 12.562 53.3791 11.6152 52.0847 11.6152L38.0376 11.6152C36.4383 11.6152 35.2136 13.0378 35.4512 14.6193L39.3814 40.7731C39.5738 42.0531 40.6734 42.9998 41.9678 42.9998L56.0149 42.9998C57.6142 42.9998 58.839 41.5773 58.6013 39.9958L54.6711 13.842Z"
+      fill="url(#paint1_linear_274-app-mob-icon-switch-mode)" />
+  </g>
+  <g filter="url(#filter1_d_274-app-mob-icon-switch-mode)">
+    <path
+      d="M59.9016 11.2267C59.7092 9.94676 58.6095 9 57.3152 9L43.268 9C41.6688 9 40.444 10.4226 40.6817 12.0041L44.6119 38.1579C44.8042 39.4378 45.9039 40.3846 47.1982 40.3846L61.2454 40.3846C62.8447 40.3846 64.0694 38.962 63.8318 37.3805L59.9016 11.2267Z"
+      fill="url(#paint2_linear_274-app-mob-icon-switch-mode)" />
+  </g>
+  <g filter="url(#filter2_d_274-app-mob-icon-switch-mode)">
+    <path
+      d="M22.6711 13.842C22.4787 12.562 21.3791 11.6152 20.0847 11.6152L6.03757 11.6152C4.43832 11.6152 3.21355 13.0378 3.45121 14.6193L7.38143 40.7731C7.57377 42.0531 8.67343 42.9998 9.96778 42.9998L24.0149 42.9998C25.6142 42.9998 26.839 41.5773 26.6013 39.9958L22.6711 13.842Z"
+      fill="url(#paint3_linear_274-app-mob-icon-switch-mode)" />
+  </g>
+  <defs>
+    <filter id="filter0_d_274-app-mob-icon-switch-mode" x="32.2062" y="9.21423" width="28.011" height="36.1868"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dx="-0.814628" />
+      <feGaussianBlur stdDeviation="1.2005" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.325 0 0 0 0 0.0326484 0 0 0 0.25 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_274-app-mob-icon-switch-mode" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_274-app-mob-icon-switch-mode" result="shape" />
+    </filter>
+    <filter id="filter1_d_274-app-mob-icon-switch-mode" x="37.4367" y="6.59899" width="28.011" height="36.1868"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dx="-0.814628" />
+      <feGaussianBlur stdDeviation="1.2005" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.325 0 0 0 0 0.0326484 0 0 0 0.25 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_274-app-mob-icon-switch-mode" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_274-app-mob-icon-switch-mode" result="shape" />
+    </filter>
+    <filter id="filter2_d_274-app-mob-icon-switch-mode" x="0.20624" y="9.21423" width="28.011" height="36.1868"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                     result="hardAlpha" />
+      <feOffset dx="-0.814628" />
+      <feGaussianBlur stdDeviation="1.2005" />
+      <feComposite in2="hardAlpha" operator="out" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0.325 0 0 0 0 0.0326484 0 0 0 0.25 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_274-app-mob-icon-switch-mode" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_274-app-mob-icon-switch-mode" result="shape" />
+    </filter>
+    <linearGradient id="paint0_linear_274-app-mob-icon-switch-mode" x1="59.0527" y1="27.2967" x2="32.363" y2="27.2967"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#FF248D" />
+    </linearGradient>
+    <linearGradient id="paint1_linear_274-app-mob-icon-switch-mode" x1="54.6874" y1="27.3075" x2="30.7654" y2="27.3075"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#24FF3A" />
+    </linearGradient>
+    <linearGradient id="paint2_linear_274-app-mob-icon-switch-mode" x1="64.2832" y1="24.6814" x2="37.5934" y2="24.6814"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#FF248D" />
+    </linearGradient>
+    <linearGradient id="paint3_linear_274-app-mob-icon-switch-mode" x1="22.6874" y1="27.3075" x2="-1.23458" y2="27.3075"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#24FF3A" />
+    </linearGradient>
+  </defs>
+</svg>

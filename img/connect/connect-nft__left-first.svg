@@ -1,0 +1,21 @@
+<svg preserveAspectRatio="xMinYMin meet" width="422" height="791" viewBox="0 0 422 791" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.65" filter="url(#filter0_f_274_connect-nft-left-first)">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M24.1476 267.767C-13.5168 271.569 -41.3511 300.111 -63.3545 330.858C-83.5657 359.1 -95.583 392.216 -89.349 426.361C-82.7441 462.537 -62.979 496.346 -30.1082 512.953C3.48627 529.927 43.3477 526.915 77.2316 510.525C111.004 494.188 134.556 463.996 145.3 428.105C157.145 388.532 161.986 343.599 137.07 310.624C111.559 276.862 66.3007 263.511 24.1476 267.767Z"
+          fill="url(#paint0_radial_274_connect-nft-left-first)" />
+  </g>
+  <defs>
+    <filter id="filter0_f_274_connect-nft-left-first" x="-357.667" y="0.333313" width="779.333" height="790.666"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+      <feGaussianBlur stdDeviation="133.333" result="effect1_foregroundBlur_274_connect-nft-left-first" />
+    </filter>
+    <radialGradient id="paint0_radial_274_connect-nft-left-first" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse"
+                    gradientTransform="translate(78.8288 338.67) rotate(145.613) scale(198.063 177.681)">
+      <stop stop-color="#D1F4FF" />
+      <stop offset="0.306681" stop-color="#6FDCFF" />
+      <stop offset="1" stop-color="#24FF3A" />
+    </radialGradient>
+  </defs>
+</svg>
